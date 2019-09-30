@@ -2,6 +2,6 @@
 A collection of custom XML themes I have created for gedit
 
 ![Eva](https://github.com/RevSpennicus/gedit-themes/blob/master/gedit-theme-screenshots/eva.jpg)
-[b]Eva[/b]
+<h3>Eva</h3>
 ![Joker](https://github.com/RevSpennicus/gedit-themes/blob/master/gedit-theme-screenshots/joker.jpg)
-[b]Joker[/b]
+<h3>Joker</h3>
