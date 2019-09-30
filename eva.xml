@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Eva - A custom XML Theme for gedit, primarily geared towards C++ development
+  Copyright (C) 2019 RevSpennicus (Spencer Smith)
+
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 3 of the License, or
+  (at your option) any later version.
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <https://www.gnu.org/licenses/>.
+-->
+<!--
+	#e6770b = orange
+	#52d053 = green
+	#765898 = purple
+-->
+<style-scheme id="eva" _name="eva" version="1.0">
+  <author>RevSpennicus(Spencer Smith)</author>
+  <_description>A custom XML Theme for gedit, primarily geared towards C++ development</_description>
+  <style name="bracket-match"  background="#e6770b" bold="true"/>
+  <style name="bracket-mismatch"  background="#e6770b" underline="true"/>
+  <style name="c:preprocessor" foreground="#765898"/>
+  <style name="cursor" foreground="#decccc"/>
+  <style name="def:base-n-integer" foreground="#52d053"/>
+  <style name="def:boolean" foreground="#52d053"/>
+  <style name="def:builtin" foreground="#52d053"/>
+  <style name="def:character" foreground="#52d053"/>
+  <style name="def:comment" foreground="#52d053" italic="true"/>
+  <style name="def:complex" foreground="#52d053"/>
+  <style name="def:constant" foreground="#52d053"/>
+  <style name="def:decimal" foreground="#52d053"/>
+  <style name="def:error" foreground="#e6770b"/>
+  <style name="def:floating-point" foreground="#52d053"/>
+  <style name="def:function" foreground="#52d053"/>
+  <style name="def:identifier" foreground="#765898"/>
+  <style name="def:keyword" foreground="#765898"/>
+  <style name="def:number" foreground="#52d053"/>
+  <style name="def:operator" foreground="#52d053"/>
+  <style name="def:preprocessor" foreground="#765898"/>
+  <style name="def:reserved" foreground="#52d053"/>
+  <style name="def:shebang" foreground="#52d053" italic="true"/>
+  <style name="def:special-char" foreground="#765898"/>
+  <style name="def:special-constant" foreground="#765898"/>
+  <style name="def:statement" foreground="#52d053"/>
+  <style name="def:string" foreground="#52d053"/>
+  <style name="def:type" foreground="#765898"/>
+  <style name="search-match"  background="#e6770b" bold="true" underline="true"/>
+  <style name="selection" foreground="#d1d0c9" background="#e6770b"/>
+  <style name="text" foreground="#d1d0c9" background="#202020"/>
+</style-scheme>
