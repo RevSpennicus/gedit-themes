@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Joker - A custom XML Theme for gedit, primarily geared towards C++ development
+  Copyright (C) 2019 RevSpennicus (Spencer Smith)
+
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 3 of the License, or
+  (at your option) any later version.
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <https://www.gnu.org/licenses/>.
+-->
+<style-scheme id="joker" _name="Joker" version="1.0">
+  <author>RevSpennicus(Spencer Smith)</author>
+  <_description>A custom XML Theme for gedit, primarily geared towards C++ development</_description>
+  <style name="bracket-match"  background="#8a0303" bold="true"/>
+  <style name="bracket-mismatch"  background="#8a0303" underline="true"/>
+  <style name="c:preprocessor" foreground="#9727ab"/>
+  <style name="cursor" foreground="#decccc"/>
+  <style name="def:base-n-integer" foreground="#64d121"/>
+  <style name="def:boolean" foreground="#64d121"/>
+  <style name="def:builtin" foreground="#64d121"/>
+  <style name="def:character" foreground="#64d121"/>
+  <style name="def:comment" foreground="#64d121" italic="true"/>
+  <style name="def:complex" foreground="#64d121"/>
+  <style name="def:constant" foreground="#64d121"/>
+  <style name="def:decimal" foreground="#64d121"/>
+  <style name="def:error" foreground="#8a0303" background="#000000"/>
+  <style name="def:floating-point" foreground="#64d121"/>
+  <style name="def:function" foreground="#64d121"/>
+  <style name="def:identifier" foreground="#9727ab"/>
+  <style name="def:keyword" foreground="#9727ab"/>
+  <style name="def:number" foreground="#64d121"/>
+  <style name="def:operator" foreground="#64d121"/>
+  <style name="def:preprocessor" foreground="#9727ab"/>
+  <style name="def:reserved" foreground="#64d121"/>
+  <style name="def:shebang" foreground="#64d121" italic="true"/>
+  <style name="def:special-char" foreground="#9727ab"/>
+  <style name="def:special-constant" foreground="#9727ab"/>
+  <style name="def:statement" foreground="#64d121"/>
+  <style name="def:string" foreground="#64d121"/>
+  <style name="def:type" foreground="#9727ab"/>
+  <style name="search-match"  background="#8a0303" bold="true" underline="true"/>
+  <style name="selection" foreground="#d1d0c9" background="#8a0303"/>
+  <style name="text" foreground="#d1d0c9" background="#000000"/>
+</style-scheme>
